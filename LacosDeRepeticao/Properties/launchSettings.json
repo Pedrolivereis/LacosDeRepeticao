@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LacosDeRepeticao": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
